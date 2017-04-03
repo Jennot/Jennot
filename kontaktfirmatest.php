@@ -26,8 +26,8 @@
     <br><br>
     <input type="submit" value="Registrer">
   </form>
-
   </body>
+
   </html>
 
   <!-- Lage variabler til brukerinputen, og legge den inn i databasen "Busy" i tabellen firmaer -->
