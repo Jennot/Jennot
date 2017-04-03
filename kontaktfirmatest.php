@@ -46,7 +46,6 @@
             $firma_Telefonnummer = $_POST['firma_Telefonnummer'];
           }
           $type = "'"."Firma"."'";
-
           $sql = "INSERT INTO firmaer(
           type, navn, adresse, epost, nettside, organisasjonsNummer, telefonNummer
           ) VALUES (
